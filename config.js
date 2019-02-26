@@ -23,9 +23,9 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'I am currently working as a React Frontend Engineer at comparethemarket.com, based in Peterborough. Focusing on creating dependable React applications that perform at scale.',
     contacts: {
-      facebook: '',
-      linkedin: '',
-      github: 'https://github.com/mattpaulwilliamson'
+      facebook: 'mattpaulwilliamson',
+      linkedin: 'in/mattpaulwilliamson/',
+      github: 'mattpaulwilliamson'
     }
   }
 };
