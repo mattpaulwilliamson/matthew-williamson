@@ -1,7 +1,7 @@
 ---
 template: page
 title: About me
-slug: About me
+slug: /pages/about/
 draft: true
 ---
 My Name is Matthew Williamson, I am currently working at [comparethemarket.com](http://www.comparethemarket.com). 
