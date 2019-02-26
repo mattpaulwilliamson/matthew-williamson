@@ -78,7 +78,7 @@ exports[`Sidebar renders correctly 1`] = `
         >
           <a
             className="contacts__list-item-link"
-            href="#"
+            href="https://linkedin.com/#"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -97,7 +97,7 @@ exports[`Sidebar renders correctly 1`] = `
         >
           <a
             className="contacts__list-item-link"
-            href="#"
+            href="https://facebook.com/#"
             rel="noopener noreferrer"
             target="_blank"
           >
