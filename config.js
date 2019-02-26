@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://matthew-williamson.netlify.com',
+  title: 'Blog by Matthew Williamson',
+  subtitle: 'I am currently working as a React Frontend Engineer at comparethemarket.com, based in Peterborough. Focusing on creating dependable React applications that perform at scale.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -27,12 +27,9 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'I am currently working as a React Frontend Engineer at comparethemarket.com, based in Peterborough. Focusing on creating dependable React applications that perform at scale.',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: 'https://github.com/mattpaulwilliamson',
-      rss: '#',
-      vkontakte: '#'
+      facebook: '',
+      linkedin: '',
+      github: 'https://github.com/mattpaulwilliamson'
     }
   }
 };
