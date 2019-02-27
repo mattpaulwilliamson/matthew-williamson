@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Lumen" title="Lumen" src="https://github.com/alxshelepenok/gatsby-starter-lumen/blob/gatsby-v2/.github/logo.png" width="140"> </br>
+    <img alt="Lumen" title="Lumen" src="https://github.com/mattpaulwilliamson/matthew-williamson/blob/gatsby-v2/.github/logo.png" width="140"> </br>
     Lumen
 </h1>
 
@@ -8,20 +8,20 @@
 </h4>
 
 <p align="center">
-    <a target="_blank" href="https://circleci.com/gh/alxshelepenok/gatsby-starter-lumen"><img src="https://circleci.com/gh/alxshelepenok/gatsby-starter-lumen.svg?style=svg"></a> <a target="_blank" href="https://codecov.io/gh/alxshelepenok/gatsby-starter-lumen"><img src="https://codecov.io/gh/alxshelepenok/gatsby-starter-lumen/branch/master/graph/badge.svg"></a> <a target="_blank" href="https://www.codacy.com/app/alxshelepenok/gatsby-starter-lumen?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=alxshelepenok/gatsby-starter-lumen&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/f7e27bb3a28a46a6b13453a02801c5c9"></a> <a target="_blank" href="https://codeclimate.com/github/alxshelepenok/gatsby-starter-lumen"><img src="https://img.shields.io/codeclimate/maintainability/alxshelepenok/gatsby-starter-lumen.svg"></a> <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Falxshelepenok%2Fgatsby-starter-lumen?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Falxshelepenok%2Fgatsby-starter-lumen.svg?type=shield"/></a>
+    <a target="_blank" href="https://circleci.com/gh/mattpaulwilliamson/matthew-williamson"><img src="https://circleci.com/gh/mattpaulwilliamson/matthew-williamson.svg?style=svg"></a> <a target="_blank" href="https://codecov.io/gh/mattpaulwilliamson/matthew-williamson"><img src="https://codecov.io/gh/mattpaulwilliamson/matthew-williamson/branch/master/graph/badge.svg"></a> <a target="_blank" href="https://www.codacy.com/app/mattpaulwilliamson/matthew-williamson?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mattpaulwilliamson/matthew-williamson&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/f7e27bb3a28a46a6b13453a02801c5c9"></a> <a target="_blank" href="https://codeclimate.com/github/mattpaulwilliamson/matthew-williamson"><img src="https://img.shields.io/codeclimate/maintainability/mattpaulwilliamson/matthew-williamson.svg"></a> <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fmattpaulwilliamson%2Fmatthew-williamson?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmattpaulwilliamson%2Fmatthew-williamson.svg?type=shield"/></a>
 </p>
 
 ## Table of contents
-+ [Features](http://github.com/alxshelepenok/gatsby-starter-lumen#features)
-+ [Quick Start](http://github.com/alxshelepenok/gatsby-starter-lumen#quick-start)
-+ [Deploy with Netlify](http://github.com/alxshelepenok/gatsby-starter-lumen#deploy-with-netlify)
-+ [Folder Structure](http://github.com/alxshelepenok/gatsby-starter-lumen#folder-structure)
-+ [Related](http://github.com/alxshelepenok/gatsby-starter-lumen#related)
-+ [Contributors](http://github.com/alxshelepenok/gatsby-starter-lumen#contributors)
-+ [Backers](http://github.com/alxshelepenok/gatsby-starter-lumen#backers)
-+ [Sponsors](http://github.com/alxshelepenok/gatsby-starter-lumen#sponsors)
-+ [Credits](http://github.com/alxshelepenok/gatsby-starter-lumen#credits)
-+ [License](http://github.com/alxshelepenok/gatsby-starter-lumen#license)
++ [Features](http://github.com/mattpaulwilliamson/matthew-williamson#features)
++ [Quick Start](http://github.com/mattpaulwilliamson/matthew-williamson#quick-start)
++ [Deploy with Netlify](http://github.com/mattpaulwilliamson/matthew-williamson#deploy-with-netlify)
++ [Folder Structure](http://github.com/mattpaulwilliamson/matthew-williamson#folder-structure)
++ [Related](http://github.com/mattpaulwilliamson/matthew-williamson#related)
++ [Contributors](http://github.com/mattpaulwilliamson/matthew-williamson#contributors)
++ [Backers](http://github.com/mattpaulwilliamson/matthew-williamson#backers)
++ [Sponsors](http://github.com/mattpaulwilliamson/matthew-williamson#sponsors)
++ [Credits](http://github.com/mattpaulwilliamson/matthew-williamson#credits)
++ [License](http://github.com/mattpaulwilliamson/matthew-williamson#license)
 
 ## Features
 + [Lost Grid](http://lostgrid.org).
@@ -43,7 +43,7 @@ Use the Gatsby CLI to create a new site, specifying the Lumen starter.
 
 ```sh
 # Create a new Gatsby site using the Lumen starter
-gatsby new blog https://github.com/alxshelepenok/gatsby-starter-lumen
+gatsby new blog https://github.com/mattpaulwilliamson/matthew-williamson
 ```
 
 #### Start Developing
@@ -67,7 +67,7 @@ Open the `blog` directory in your code editor of choice and edit `src/templates/
 
 [Netlify](https://netlify.com) CMS can run in any frontend web environment, but the quickest way to try it out is by running it on a pre-configured starter site with Netlify. Use the button below to build and deploy your own copy of the repository:
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/alxshelepenok/gatsby-starter-lumen" target="_blank"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/mattpaulwilliamson/matthew-williamson" target="_blank"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
 After clicking that button, you’ll authenticate with GitHub and choose a repository name. Netlify will then automatically create a repository in your GitHub account with a copy of the files from the template. Next, it will build and deploy the new site on Netlify, bringing you to the site dashboard when the build is complete. Next, you’ll need to set up Netlify’s Identity service to authorize users to log in to the CMS.
 
