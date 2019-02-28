@@ -3,7 +3,7 @@ template: post
 title: NPM the carbon monster
 slug: /posts/NPM-the-carbon-monster/
 draft: false
-date: 2019-09-01T23:46:00.000Z
+date: 2019-02-28T02:46:00.000Z
 description: >-
   Recently Nasa spotted a giant iceberg (around twice the size of New York),
   named B-46 this is supposedly going to break away sometime soon. This worries
