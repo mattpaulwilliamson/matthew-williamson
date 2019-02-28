@@ -140,6 +140,7 @@ Thanks goes to these wonderful people!
 :---: |:---: |:---: |
 [swapnilmishra](https://github.com/swapnilmishra) |[vvasiloud](https://github.com/vvasiloud) |[wichopy](https://github.com/wichopy) |
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c1683f6783ed403396a9e17954e7c42b)](https://app.codacy.com/app/mattpaulwilliamson/matthew-williamson?utm_source=github.com&utm_medium=referral&utm_content=mattpaulwilliamson/matthew-williamson&utm_campaign=Badge_Grade_Dashboard)
 ## Backers [![Backers on Open Collective](https://opencollective.com/lumen/backers/badge.svg)](#backers)
 
 Thank you to all our backers!
