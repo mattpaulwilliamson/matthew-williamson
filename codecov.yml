@@ -1,3 +1,6 @@
+codecov:
+  token: 5c6372ec-063d-48ff-b4d4-fc43378e9d00
+  
 # Team Yaml
 coverage:
   round: down
