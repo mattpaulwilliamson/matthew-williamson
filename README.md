@@ -1,11 +1,6 @@
 <h1 align="center">
-    <img alt="Lumen" title="Lumen" src="https://github.com/mattpaulwilliamson/matthew-williamson/blob/gatsby-v2/.github/logo.png" width="140"> </br>
-    Lumen
+    Matthew Williamson
 </h1>
-
-<h4 align="center">
-  A minimal, lightweight and mobile-first starter for creating blogs uses <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a>.
-</h4>
 
 <p align="center">
     <a target="_blank" href="https://circleci.com/gh/mattpaulwilliamson/matthew-williamson"><img src="https://circleci.com/gh/mattpaulwilliamson/matthew-williamson.svg?style=svg"></a> <a target="_blank" href="https://codecov.io/gh/mattpaulwilliamson/matthew-williamson"><img src="https://codecov.io/gh/mattpaulwilliamson/matthew-williamson/branch/master/graph/badge.svg"></a> <a target="_blank" href="https://www.codacy.com/app/mattpaulwilliamson/matthew-williamson?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mattpaulwilliamson/matthew-williamson&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/f7e27bb3a28a46a6b13453a02801c5c9"></a> <a target="_blank" href="https://codeclimate.com/github/mattpaulwilliamson/matthew-williamson"><img src="https://img.shields.io/codeclimate/maintainability/mattpaulwilliamson/matthew-williamson.svg"></a> <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fmattpaulwilliamson%2Fmatthew-williamson?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmattpaulwilliamson%2Fmatthew-williamson.svg?type=shield"/></a>
