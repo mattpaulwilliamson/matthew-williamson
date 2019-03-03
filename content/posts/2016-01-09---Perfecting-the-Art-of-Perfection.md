@@ -5,21 +5,23 @@ slug: /posts/NPM-the-carbon-monster/
 draft: false
 date: 2019-02-28T02:46:00.000Z
 description: >-
-  Recently Nasa spotted a giant iceberg (around twice the size of New York),
-  named B-46 this is supposedly going to break away sometime soon. This worries
-  me as it feels like we as a world of people are not talking or working hard
-  enough to look after the home we live in.
+  Recently Nasa spotted a giant iceberg (around twice the size of New York) an
+  estimated area of 1,700 sq. km, this is likely to break away from the
+  mainland. This worries me as it feels like we as a world of people are not
+  talking or working hard enough to look after the home we live in.
 category: ' environment'
 tags:
   - environment
 ---
 **The data centers that support the Internet use massive amounts of energy.**
 
-Recently Nasa spotted a giant iceberg (around twice the size of New York), named B-46 this is supposedly going to break away sometime soon. This worries me as it feels like we as a world of people are not talking or working hard enough to look after the home we live in.
+Recently Nasa spotted a giant iceberg (around twice the size of New York) an estimated area of 1,700 sq. km, this is likely to break away from the mainland. This worries me as it feels like we as a world of people are not talking or working hard enough to look after the home we live in.
 
 ![Ice berg](/media/iceberg-1338194-639x424.jpg "Ice berg")
 
-<https://www.nasa.gov/feature/goddard/2018/massive-antarctic-iceberg-spotted-on-nasa-icebridge-flight>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Cracks growing across Brunt Ice Shelf are poised to release an iceberg about twice the size of New York City. <a href="https://t.co/PUTVLD2zLy">https://t.co/PUTVLD2zLy</a> <a href="https://twitter.com/hashtag/Antarctica?src=hash&amp;ref_src=twsrc%5Etfw">#Antarctica</a> <a href="https://twitter.com/hashtag/ice?src=hash&amp;ref_src=twsrc%5Etfw">#ice</a> <a href="https://twitter.com/hashtag/Landsat?src=hash&amp;ref_src=twsrc%5Etfw">#Landsat</a> <a href="https://t.co/eW52B2HXrY">pic.twitter.com/eW52B2HXrY</a></p>&mdash; NASA Earth (@NASAEarth) <a href="https://twitter.com/NASAEarth/status/1098715139539390464?ref_src=twsrc%5Etfw">February 21, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 I have three children who will hopefully go on to have children and so on and I am concerned that some of the things I am currently doing and have done is having a large effect on the planet. 
 
