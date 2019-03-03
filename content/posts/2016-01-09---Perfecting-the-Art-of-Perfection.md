@@ -20,7 +20,6 @@ Recently Nasa spotted a giant iceberg (around twice the size of New York) an est
 ![Ice berg](/media/iceberg-1338194-639x424.jpg "Ice berg")
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Cracks growing across Brunt Ice Shelf are poised to release an iceberg about twice the size of New York City. <a href="https://t.co/PUTVLD2zLy">https://t.co/PUTVLD2zLy</a> <a href="https://twitter.com/hashtag/Antarctica?src=hash&amp;ref_src=twsrc%5Etfw">#Antarctica</a> <a href="https://twitter.com/hashtag/ice?src=hash&amp;ref_src=twsrc%5Etfw">#ice</a> <a href="https://twitter.com/hashtag/Landsat?src=hash&amp;ref_src=twsrc%5Etfw">#Landsat</a> <a href="https://t.co/eW52B2HXrY">pic.twitter.com/eW52B2HXrY</a></p>&mdash; NASA Earth (@NASAEarth) <a href="https://twitter.com/NASAEarth/status/1098715139539390464?ref_src=twsrc%5Etfw">February 21, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 **I am concerned that some of the things I am doing are having a large effect on the planet. **
 
