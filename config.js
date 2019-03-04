@@ -5,7 +5,7 @@ module.exports = {
   title: 'Blog by Matthew Williamson',
   subtitle: 'I am currently working as a React Frontend Engineer at comparethemarket.com, based in Peterborough. Focusing on creating dependable React applications that perform at scale.',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'matthew-williamson-blog',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-135466851-1',
   menu: [
