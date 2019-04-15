@@ -55,7 +55,7 @@
     "gatsby-plugin-sitemap": "^2.0.12",
     "gatsby-plugin-twitter": "2.0.13",
     "gatsby-remark-autolink-headers": "^2.0.16",
-    "gatsby-remark-copy-linked-files": "^2.0.9",
+    "gatsby-remark-copy-linked-files": "^2.0.11",
     "gatsby-remark-images": "^3.0.3",
     "gatsby-remark-katex": "^3.0.3",
     "gatsby-remark-prismjs": "^3.2.4",
