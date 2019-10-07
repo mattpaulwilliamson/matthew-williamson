@@ -91,7 +91,7 @@
     "jest": "24.1.0",
     "jest-cli": "24.1.0",
     "rimraf": "2.6.3",
-    "concurrently": "4.1.0",
+    "concurrently": "5.0.0",
     "stylelint": "9.10.1",
     "stylelint-scss": "3.5.4",
     "stylelint-config-recommended-scss": "3.2.0",
