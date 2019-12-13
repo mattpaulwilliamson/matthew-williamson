@@ -8,12 +8,14 @@ on:
       # Required to use as a status check.
       - synchronize
 
+
 jobs:
   publish:
+    name: Publish
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout
-      - uses: dylanvann/check-pull-request-title
+      - uses: actions/checkout@v1
+      - uses: dylanvann/check-pull-request-title@v1.1.49
         with:
-          # Match pull request titles in the form UI-1234 - Message.
+           # Match pull request titles in the form UI-1234 - Message.
           pattern: '^MEER-\d* - '
