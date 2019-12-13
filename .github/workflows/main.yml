@@ -12,8 +12,9 @@ jobs:
   publish:
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@v1
-      - uses: dylanvann/check-pull-request-title@v1
-        with:
-          # Match pull request titles in the form UI-1234 - Message.
-          pattern: '^MEER-\d* - '
+    - uses: deepakputhraya/action-pr-title@master
+      with:
+        regex: '^MEER\d* - ' # Regex the title should match.
+        #allowed_prefixes: 'MEER-' # title should start with the given prefix
+        prefix_case_sensitive: false # title prefix are case insensitive
+        min_length: 5 # Min length of the title
