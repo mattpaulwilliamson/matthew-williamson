@@ -73,9 +73,9 @@
     "node-sass": "^4.11.0",
     "normalize-scss": "^7.0.1",
     "prismjs": "^1.15.0",
-    "react": "^16.8.1",
+    "react": "^16.9.0",
     "react-disqus-comments": "^1.4.0",
-    "react-dom": "^16.8.1",
+    "react-dom": "^16.9.0",
     "react-helmet": "^5.2.0"
   },
   "devDependencies": {
@@ -87,7 +87,7 @@
     "babel-core": "7.0.0-bridge.0",
     "babel-jest": "24.1.0",
     "identity-obj-proxy": "3.0.0",
-    "react-test-renderer": "16.8.3",
+    "react-test-renderer": "16.9.0",
     "jest": "24.1.0",
     "jest-cli": "24.1.0",
     "rimraf": "2.6.3",
