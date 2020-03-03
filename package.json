@@ -105,7 +105,7 @@
     "babel-eslint": "10.0.1",
     "gh-pages": "2.0.1",
     "lost": "8.3.1",
-    "postcss-pxtorem": "4.0.1",
+    "postcss-pxtorem": "5.1.0",
     "autoprefixer": "9.4.9",
     "browserslist": "4.4.2"
   }
