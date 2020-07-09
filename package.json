@@ -59,7 +59,7 @@
     "gatsby-remark-images": "^3.0.3",
     "gatsby-remark-katex": "^3.0.3",
     "gatsby-remark-prismjs": "^3.2.4",
-    "gatsby-remark-relative-images": "^0.2.2",
+    "gatsby-remark-relative-images": "^0.2.3",
     "gatsby-remark-responsive-iframe": "^2.0.9",
     "gatsby-remark-smartypants": "^2.0.8",
     "gatsby-source-filesystem": "^2.0.20",
