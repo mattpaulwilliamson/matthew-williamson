@@ -13,7 +13,9 @@
     "lint": "concurrently \"yarn run lint:js\" \"yarn run lint:scss\"",
     "test": "jest --config ./tests/jest-config.js",
     "test:coverage": "jest --coverage --config ./tests/jest-config.js",
-    "test:watch": "jest --watch --config ./tests/jest-config.js"
+    "test:watch": "jest --watch --config ./tests/jest-config.js",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": "",
   "author": "",
@@ -76,7 +78,8 @@
     "react": "^16.8.1",
     "react-disqus-comments": "^1.4.0",
     "react-dom": "^16.8.1",
-    "react-helmet": "^5.2.0"
+    "react-helmet": "^5.2.0",
+    "snyk": "^1.189.0"
   },
   "devDependencies": {
     "@babel/plugin-proposal-optional-chaining": "7.2.0",
@@ -108,5 +111,6 @@
     "postcss-pxtorem": "4.0.1",
     "autoprefixer": "9.4.9",
     "browserslist": "4.4.2"
-  }
+  },
+  "snyk": true
 }
